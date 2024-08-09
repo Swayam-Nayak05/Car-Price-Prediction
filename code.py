@@ -17,9 +17,7 @@ car_data.info()
 car_data.isnull().sum()
 
 car_data['Fuel_Type'].value_counts()
-
 car_data['Seller_Type'].value_counts()
-
 car_data['Transmission'].value_counts()
 
 # Encoding the data
